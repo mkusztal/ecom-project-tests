@@ -30,7 +30,7 @@ pip install -r requirements.txt
 3. Start the tests by command
 
 ```bash
-pytest
+python run_tests.py
 ```
 
 ---
